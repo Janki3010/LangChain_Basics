@@ -1,0 +1,15 @@
+.venv
+LangChain-Chain/.venv
+LangChain-Prompts/.venv
+LangChain_Structured_Output/.venv
+
+LangChain-Chain/.env
+LangChain-Model/.env
+LangChain-Prompts/.env
+LangChain_Structured_Output/.env
+
+
+LangChain-Chain/.idea
+LangChain-Model/.idea
+LangChain-Prompts/.idea
+LangChain_Structured_Output/.idea
